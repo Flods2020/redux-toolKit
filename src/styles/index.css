@@ -5,11 +5,12 @@
   font-weight: 400;
 }
 body {
-  background: #fefffe;
+  background: #090909;
   margin-left: 20px;
   max-width: 1150px;
   margin: 0 auto;
   padding-left: 10px;
+  color: #fefffe;
 }
 h1 {
   font-weight: 800;
@@ -29,6 +30,7 @@ h1 {
   width: inherit;
   transform: translateY(-19px);
   padding: 14px;
+  color: #090909;
 }
 form {
   display: grid;
@@ -72,7 +74,7 @@ input[type="submit"]:hover {
 }
 .pic-card:hover {
   transform: scale(1.02);
-  box-shadow: 0 4px 40px rgba(32, 129, 227, 0.35);
+  box-shadow: 0 4px 40px rgba(118, 139, 160, 0.35);
 }
 @media screen and (max-width: 1050px) {
   .cards-container {

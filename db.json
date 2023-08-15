@@ -113,6 +113,12 @@
       "year": "2007",
       "photo": "https://picsum.photos/400/424",
       "id": 24
+    },
+    {
+      "artist": "Brago",
+      "year": "2018",
+      "photo": "https://picsum.photos/400/447",
+      "id": 25
     }
   ]
 }
